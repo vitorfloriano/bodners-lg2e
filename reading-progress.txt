@@ -9,8 +9,5 @@
 31/12/2024 - stopped at p. 129
 01/01/2025 - stopped at p. 130
 02/01/2025 - stopped at p. 138 (defer)
-<<<<<<< HEAD
-04/01/2025 - stopped at p. 149
-=======
 03/01/2025 - stopped at p. 142
->>>>>>> d3a90e973d1ffe826e97727dd10b94dc2c0742ef
+04/01/2025 - stopped at p. 149
