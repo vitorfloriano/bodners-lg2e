@@ -1,7 +1,10 @@
 package main
 
 import (
-	
+	"fmt"
+	"sort"
+	"os"
+	"io"	
 )
 
 type Team struct {
@@ -35,21 +38,49 @@ func (l *League) MatchResult(firstTeam, secondTeam string, ftScore, stScore int)
 	}
 	if ftScore > stScore {
 		l.Wins[firstTeam]++
-	}
-	else if stScore > ftScore {
+	} else if stScore > ftScore {
 		l.Wins[secondTeam]++
 	} else {
 		// do nothing
 	}
+}
+
+func (l *League) Ranking() []string {
+	teamNames := []string{}
+	for team := range l.Wins {
+		teamNames = append(teamNames, team)
+	}
+	sort.Slice(teamNames, func(i, j int) bool {
+		return l.Wins[teamNames[i]] > l.Wins[teamNames[j]]
+	})
+	return teamNames		
+}
+
+type Ranker interface {
+	Ranking() []string
+}
+
+func RankPrinter(r Ranker, w io.Writer) {
+	rankings := r.Ranking()
+	for _, team := range rankings {
+		io.WriteString(w, team+"\n")
 	}
 }
+
+func main() {
+	league := League{
+		Teams: []Team{
+			{teamName: "Raptors", playerNames: []string{"Alice", "Bob"}},
+			{teamName: "Lakers", playerNames: []string{"Charlie", "Dana"}},
+		},
+		Wins: map[string]int{
+			"Raptors": 5,
+			"Lakers": 3,
+		},
+	}
+
+	league.MatchResult("Raptors", "Lakers", 102, 98)
 	
-
-}
-
-
-func (l League) Ranking() []Team.teamName {
-	
-}
-
-
+	fmt.Println("Rankings: ")
+	RankPrinter(&league, os.Stdout)
+}	
