@@ -23,4 +23,5 @@
 14/01/2025 - worked on exercises
 15/01/2025 - stopped at p. 209
 16/01/2025 - stopped at p. 213
-17/01/2025 - took the time to understand generics better
+17/01/2025 - took the day to understand generics better
+18/01/2025 - stopped at p. 216
