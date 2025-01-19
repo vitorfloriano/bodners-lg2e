@@ -25,3 +25,4 @@
 16/01/2025 - stopped at p. 213
 17/01/2025 - took the day to understand generics better
 18/01/2025 - stopped at p. 216
+19/01/2025 - stopped at p. 221
