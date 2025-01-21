@@ -27,3 +27,4 @@
 18/01/2025 - stopped at p. 216
 19/01/2025 - stopped at p. 221
 20/01/2025 - stopped at p. 226 (exercise 1)
+21/01/2025 - stopped at p. 234 (Wrapping Errors)
