@@ -29,3 +29,4 @@
 20/01/2025 - stopped at p. 226 (exercise 1)
 21/01/2025 - stopped at p. 234 (Wrapping Errors)
 22/01/2025 - stopped at p. 236 (Wrapping Multiple Errors)
+23/01/2025 - stopped at p. 238 (Is and As)
