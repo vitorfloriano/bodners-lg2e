@@ -32,3 +32,4 @@
 23/01/2025 - stopped at p. 238 (Is and As)
 24/01/2025 - stopped at p. 240
 25/01/2025 - stopped at p. 241 (Wrapping Errors with defer)
+26/01/2025 - stopped at p. 245 (Exercises)
