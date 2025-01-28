@@ -33,4 +33,4 @@
 24/01/2025 - stopped at p. 240
 25/01/2025 - stopped at p. 241 (Wrapping Errors with defer)
 26/01/2025 - stopped at p. 245 (Exercises)
-27/01/2025 - stopped at p. 246
+27/01/2025 - stopped at p. 251 (Building Packages)
