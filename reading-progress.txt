@@ -48,3 +48,4 @@
 08/02/2025 - stopped at p. 285 (Exercise 3)
 09/02/2025 - stopped at p. 286
 10/02/2025 - stopped at p. 291
+11/02/2025 - stopped at p. 296 (Using govulncheck...)
