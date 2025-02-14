@@ -50,3 +50,4 @@
 10/02/2025 - stopped at p. 291
 11/02/2025 - stopped at p. 296 (Using govulncheck...)
 12/02/2025 - stopped at p. 298 (Embedding Content...)
+13/02/2025 - stopped at p. 301 (Embedding Hidden...)
