@@ -66,3 +66,4 @@
 26/02/2025 - just another day off. been kind of anxious about GSoC2025.
 27/02/2025 - stopped at p. 312 (continue from 313)
 28/02/2025 - stopped at p. 314
+01/03/2025 - stopped at p. 316 (Using for-range...)
