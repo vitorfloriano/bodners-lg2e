@@ -67,3 +67,6 @@
 27/02/2025 - stopped at p. 312 (continue from 313)
 28/02/2025 - stopped at p. 314
 01/03/2025 - stopped at p. 316 (Using for-range...)
+02/03/2025 - didn't study anything
+03/03/2025 - didn't study anything
+04/03/2025 - stopped at p. 321 (Concurrency Practices...)
