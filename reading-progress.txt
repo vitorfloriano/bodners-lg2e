@@ -75,3 +75,11 @@
 07/03/2025 - didn't study anything
 08/03/2025 - didn't study
 09/03/2025 - been working on something else (kubebuilder)
+10/03/2025 - working on kubebuilder
+11/03/2025 - working on kubebuilder
+12/03/2025 - working on kubebuilder
+13/03/2025 - working on kubebuilder
+14/03/2025 - working on kubebuilder
+15/03/2025 - working on kubebuilder
+16/03/2025 - working on kubebuilder
+
