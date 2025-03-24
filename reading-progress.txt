@@ -84,4 +84,8 @@
 16/03/2025 - working on kubebuilder
 17/03/2025 - working on kubebuilder
 18/03/2025 - working on kubebuilder
-
+19/03/2025 - working on kubebuilder
+20/03/2025 - working on kubebuilder
+21/03/2025 - working on kubebuilder
+22/03/2025 - working on kubebuilder
+23/03/2025 - stopped at p. 323 (Always Clean Up...)
