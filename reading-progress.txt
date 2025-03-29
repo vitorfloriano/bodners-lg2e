@@ -90,3 +90,7 @@
 22/03/2025 - working on kubebuilder
 23/03/2025 - stopped at p. 323 (Always Clean Up...)
 24/03/2025 - working on kubebuilder
+25/03/2025 - working on kubebuilder
+26/03/2025 - working on kubebuilder
+27/03/2025 - working on kubebuilder
+28/03/2025 - stopped at p. 325 (Know When to Use...)
