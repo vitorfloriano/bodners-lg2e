@@ -94,3 +94,6 @@
 26/03/2025 - working on kubebuilder
 27/03/2025 - working on kubebuilder
 28/03/2025 - stopped at p. 325 (Know When to Use...)
+29/03/2025 - didn't study anything
+30/03/2025 - didn't study anything
+31/03/2025 - worked on kubebuilder
