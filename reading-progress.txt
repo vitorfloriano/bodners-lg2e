@@ -97,3 +97,4 @@
 29/03/2025 - didn't study anything
 30/03/2025 - didn't study anything
 31/03/2025 - worked on kubebuilder
+01/04/2025 - didn't study anything (my eyes hurt)
