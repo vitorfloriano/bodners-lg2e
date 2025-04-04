@@ -99,3 +99,4 @@
 31/03/2025 - worked on kubebuilder
 01/04/2025 - didn't study anything (my eyes hurt)
 02/04/2025 - stopped at p. 327
+03/04/2025 - stopped at p. 330 (Use WaitGroups)
